@@ -1,7 +1,6 @@
-## The simples FreeRTOS project with LED blinking
+## USART echo
 
-Project includes FreeRTOS operating system and performs LED blinking
-from task.
+USART2 echo from corresponding IRQ.
 
 ## Features
  - Clock source: HSE
@@ -9,12 +8,10 @@ from task.
  - APB1: 170 MHz
  - APB2: 170 MHz
  - CMSIS only
- - FreeRTOS
 
 ## Versions
   - IAR EWARM: v8.5
   - CMSIS: v1.2.0
-  - FreeRTOS v10.3.1
 
 ## Licence
 MIT Licence
