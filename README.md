@@ -4,6 +4,7 @@ Templates and examples for STM32G474RE on NUCLEO-G474RE board.
 
 ## List
   - **01_LED_blinking**: the simplest LED blinking
+  - **02_HSE_PLL**: config SYSCLK for 170 MHz with HSE and PLL
 
 ## Versions
   - IAR EWARM: v8.5
