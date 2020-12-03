@@ -11,7 +11,7 @@ Templates and examples for STM32G474RE on NUCLEO-G474RE board.
 ## Versions
   - IAR EWARM: v8.5
   - CMSIS: v1.2.0
-  - FreeRTOS v10.4.1
+  - FreeRTOS v10.3.1
 
 ## Licence
 MIT Licence
